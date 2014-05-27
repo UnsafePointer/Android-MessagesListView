@@ -1,0 +1,27 @@
+[
+    {
+        "text": "How's Heaven Steve?",
+        "date": "27/05/2014 19:22",
+        "type": false
+    },
+    {
+        "text": "Perfect, Bill. It's just that it doesn't have any wall or fence.",
+        "date": "27/05/2014 19:23",
+        "type": true
+    },
+    {
+        "text": "So?",
+        "date": "27/05/2014 19:24",
+        "type": false
+    },
+    {
+        "text": "We don't need any Windows or Gates.",
+        "date": "27/05/2014 19:24",
+        "type": true
+    },
+    {
+         "text": "You bastard!",
+         "date": "27/05/2014 19:24",
+         "type": false
+    }
+]

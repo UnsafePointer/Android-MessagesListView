@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="message_container" type="id"/>
+    <item name="sender_avatar" type="id"/>
+    <item name="message_date" type="id"/>
+    <item name="message_text" type="id"/>
+</resources>
