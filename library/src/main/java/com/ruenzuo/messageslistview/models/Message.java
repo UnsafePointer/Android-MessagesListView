@@ -11,6 +11,13 @@ public class Message {
     private String text;
     private MessageType type;
 
+    public Message(MessageBuilder messageBuilder) {
+        this.date = messageBuilder.date;
+        this.text = messageBuilder.text;
+        this.type = messageBuilder.type;
+    }
+
+
     public Date getDate() {
         return date;
     }
@@ -34,4 +41,31 @@ public class Message {
     public void setType(MessageType type) {
         this.type = type;
     }
+
+    public static class MessageBuilder {
+
+        private final MessageType type;
+        private Date date;
+        private String text;
+
+        public MessageBuilder(MessageType type) {
+            this.type = type;
+        }
+
+        public MessageBuilder date(Date date) {
+            this.date = date;
+            return this;
+        }
+
+        public MessageBuilder text(String text) {
+            this.text = text;
+            return this;
+        }
+
+        public Message build() {
+            return new Message(this);
+        }
+
+    }
+
 }

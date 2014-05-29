@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="list_background">#F2F2F2</color>
+    <color name="styled_recipient_color">#007AFF</color>
+    <color name="styled_sender_color">#5856D6</color>
+    <color name="styled_date_text_color">#2B2B2B</color>
+    <color name="styled_message_text_color">#C7C7CC</color>
 </resources>

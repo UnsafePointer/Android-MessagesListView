@@ -2,4 +2,11 @@
 
 <resources>
     <string name="app_name">MessagesListViewExample</string>
+    <string name="message_hint">Enter message</string>
+    <string name="action_send">Send</string>
+    <string name="enter_text">Please, enter a message</string>
+    <string-array name="menu_options">
+        <item>Default example</item>
+        <item>Styled example</item>
+    </string-array>
 </resources>

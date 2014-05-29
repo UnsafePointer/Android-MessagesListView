@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="default_messages_list_view_transparent">@android:color/transparent</drawable>
+    <color name="default_messages_list_view_background">#F2F2F2</color>
+    <bool name="default_messages_list_view_sound">false</bool>
+    <color name="default_messages_list_view_recipient_color">#FFFFFF</color>
+    <color name="default_messages_list_view_sender_color">#DFF2D9</color>
+    <color name="default_messages_list_view_message_text_color">#000000</color>
+    <color name="default_messages_list_view_date_text_color">#8E8E93</color>
+</resources>

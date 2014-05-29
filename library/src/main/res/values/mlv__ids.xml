@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
     <item name="message_container" type="id"/>
     <item name="sender_avatar" type="id"/>

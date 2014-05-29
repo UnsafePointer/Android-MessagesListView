@@ -5,7 +5,7 @@ package com.ruenzuo.messageslistview.models;
  */
 public enum MessageType {
 
-    MESSAGE_TYPE_SENT (1), MESSAGE_TYPE_RECEIVED (2);
+    MESSAGE_TYPE_SENT (0), MESSAGE_TYPE_RECEIVED (1);
 
     private final int integer;
 
