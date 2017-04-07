@@ -3,8 +3,8 @@ Android-MessagesListView
 
 An Android library to easily display a list of messages.
 
-![android-facade-screenshot-1.png](https://dl.dropboxusercontent.com/u/12352209/GitHub/android-messageslistview-screenshot-1.png)&nbsp;
-![android-facade-screenshot-2.png](https://dl.dropboxusercontent.com/u/12352209/GitHub/android-messageslistview-screenshot-2.png)
+![android-facade-screenshot-1.png](https://raw.githubusercontent.com/Ruenzuo/res/master/android-messageslistview-screenshot-1.png)&nbsp;
+![android-facade-screenshot-2.png](https://raw.githubusercontent.com/Ruenzuo/res/master/android-messageslistview-screenshot-2.png)
 
 Usage:
 ======
